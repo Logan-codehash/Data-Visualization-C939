@@ -8,4 +8,3 @@ from the course.
 
 Other files in this root directory are supporting files used in the creation of 
 the final project. 
-Of special note, is the dataset file used "pokemon.xlsx"
