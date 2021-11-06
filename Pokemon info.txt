@@ -1,0 +1,5 @@
+https://pokemondb.net/pokedex/all
+at
+https://public.tableau.com/en-us/s/resources
+Pokemon Index
+Contains attack, defense, speed, and HP stats for all Pokemon numbered 1-718 and their special forms. Via PokemonDB.net.
